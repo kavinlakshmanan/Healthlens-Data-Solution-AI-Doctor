@@ -1,6 +1,6 @@
 # HealthLens Data Solution AI Doctor 🏥💡
 
-![HealthLens Logo]()
+![HealthLens Logo](Assests)
 
 ## Overview ℹ️
 
