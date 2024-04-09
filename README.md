@@ -1,6 +1,6 @@
 # HealthLens Data Solution AI Doctor 🏥💡
 
-![HealthLens Logo]([Assests](https://github.com/kavinlakshmanan/Healthlens-Data-Solution-AI-Doctor/blob/534364cdb1a16e94c653e22ea64fc3f430f89ba2/Assests/logo%20landing%20page.jpg))
+![HealthLens Logo](Assests/logo landing page.jpg)
 
 ## Overview ℹ️
 
