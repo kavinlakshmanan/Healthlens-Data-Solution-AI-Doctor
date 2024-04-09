@@ -1,6 +1,6 @@
 # HealthLens Data Solution AI Doctor 🏥💡
 
-![HealthLens Logo](https://via.placeholder.com/150)
+![HealthLens Logo]()
 
 ## Overview ℹ️
 
